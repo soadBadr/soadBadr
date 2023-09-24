@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/92649052/219610854-c4a94808-c90c-4fd4-a116-9252697f20ff.png)
 
 
-- 🌱 I’m currently learning **Flutter , ML , AI**
+- 🌱 I’m currently learning **Flutter , ML ,  Data analysis in Python with pandas**
 
 - 👯 I’m looking to collaborate on **Microsoft**
 
