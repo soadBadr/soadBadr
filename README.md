@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soad El_Sayed Ahmed</h1>
-<h3 align="center">Machine Learning  | Flutter , Web Developer |HTML,CSS,JS</h3>
+<h3 align="center">Machine Learning  | Data analysis </h3>
 
 ![image](https://user-images.githubusercontent.com/92649052/219610854-c4a94808-c90c-4fd4-a116-9252697f20ff.png)
 
